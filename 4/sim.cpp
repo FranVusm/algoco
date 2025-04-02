@@ -5,7 +5,6 @@ using namespace std;
 
 int main(){
     std::list<char> texto;
-    
     int T;
     cin >> T;
     cin.ignore();
